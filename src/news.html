@@ -1,0 +1,15 @@
+<template>
+  <section class="au-animate">
+      <table>
+    <tr repeat.for="entry of feed">
+        <td>
+            <b>${entry.title.split(" - ")[0]}</b>
+            <!--br>
+            <i>${entry.publishedDate}</i>
+            <br>
+            <p>${decodeHtml(entry.contentSnippet)}</p-->
+        </td>
+    </tr>
+      </table>
+  </section>
+</template>
