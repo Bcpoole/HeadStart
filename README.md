@@ -17,7 +17,7 @@ Create a the following file for Google API and openWeatherMap API keys:
 }
 ```
 
-## Python
+## Proof of Concept Python Scripts
 
 ### Install
 
@@ -43,7 +43,7 @@ or individually:
     make news
 ```
 
-## Web-App Version
+## Barebones Web-App Version
 
 ### Install
 
